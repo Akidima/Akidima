@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akidima
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in Full Stack Web Development, AI Development and Mobile Development.
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on georgeakidima001@gmail.com
